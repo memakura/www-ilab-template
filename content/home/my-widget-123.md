@@ -11,4 +11,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    image: railroad-163518_1280.jpg
 ---
